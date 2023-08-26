@@ -34,6 +34,8 @@ Demystify the world of kNN, Decision Trees, Logistic Regression, Naive Bayes, an
 
 
 # Credit: Ravit Jain
-# Refer: https://bigdatanewsweekly.com/
+# References
+1. https://bigdatanewsweekly.com/
+2. https://www.linkedin.com/groups/6773450/
 
 
